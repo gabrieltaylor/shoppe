@@ -642,6 +642,8 @@ en:
         store_name: Widgets Inc.
         tax_name: Tax
 
+      stripe: Stripe
+
   layouts:
     shoppe:
       application:
